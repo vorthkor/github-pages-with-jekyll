@@ -1,8 +1,9 @@
-theme: minima
-title: Yes
+title: Yes cool title
 author: VictorP
 email: vrthk@etlgr.com
 description: Cool new web-site direct from github and internet connections.
+
+theme: minima
 
 # social links
 twitter_username: vpspsps # DO NOT include the @ character, or else the build will fail!
